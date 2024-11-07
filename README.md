@@ -1,4 +1,4 @@
-<h1 align="center">Hola mi nombre es Jhon Breña Sifuentes</h1>
+<h1 align="center">Hola mi nombre es Jhon Breña Sifuentes - Grupo 1</h1>
 <h3 align="center">Desarrollador Back-End</h3>
 
 <h3 align="left">Connect with me:</h3>
